@@ -6,3 +6,5 @@ This is pretty basic, it drags values for graphs from perlin noise with random s
 It dynamicly scalabale in vertical and horizontal directions.
 It uses usual candles to display information.
 It has few sliders you can play with, as amount of graphs, speed or smoothness of lines.
+
+You can try it out here: https://gregorykogan.github.io/PlotDrawer/
